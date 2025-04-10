@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(138, 0, 0);
+}
+
+
+
+h1 {
+   
+    text-align: center;
+   font-size: 60px;
+   color: black;
+}
+.menu {
+    height: 160px;
+    width: 100%;
+    background-color: rgb(200, 0, 0);
+}
+a {
+    text-decoration: none;
+    color: azure;
+    font-size: 30px;
+    margin: 45px;
+   
+}
+.otziv {
+    height: 600px;
+    width: 100%;
+    background-color: rgb(200, 0, 0) ;
+    margin-top: 30px;
+}
+main p {
+    font-size: 20px;
+   text-align: center;
+}
+main div {
+    background-color: rgb(255, 255, 0);
+    height: 50px;
+    width: 400px;
+    margin: 50px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+   
+  
+}
+.food {
+    height: 700px;
+    width: 100%;
+    background-color: rgb(200, 255, 0);
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    display: flex;
+
+}
+.odin {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.food h1 {
+    font-size: 30px;
+   
+}
+.food img {
+    width: 90px;
+    height: 90px;
+    justify-content: space-around;
+    margin-left: 30px;
+
+    
+}
+.dva {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.dva h1 {
+   font-size: 20px;
+}
+.otziv img {
+    width: 20px;
+    height: 20px;
+}
+.menu img {
+    height: 40px;
+    width: 40px;
+}
+footer h1 {
+    font-size: 50px;
+}
+.info {
+    width: 100%;
+    height: 200px;
+    background-color: yellow;
+}
+.adress {
+    background-color: beige;
+     width: 100%;
+    height: 200px;
+    font-size: 30px;
+
+}
+
+
+  
+   
